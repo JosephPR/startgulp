@@ -1,0 +1,25 @@
+{
+  "name": "startgulp",
+  "version": "1.0.0",
+  "description": "\"starting gulp\"",
+  "main": "index.js",
+  "dependencies": {
+    "gulp-cli": "^2.0.1"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.0",
+    "gulp-autoprefixer": "^6.0.0",
+    "gulp-cssnano": "^2.1.3",
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "[\"gulp\"",
+    "]"
+  ],
+  "author": "Joe Reilly",
+  "license": "ISC"
+}
